@@ -12,7 +12,7 @@ The AMFVisualizer software comes with three different AMF Files:
 
 Here is a sample snapshot for our AMFVisualizer:
 
-![Snapshot for our AMFVisualizer](amfVisualizerSnapshot.png)
+![Snapshot for our AMFVisualizer](amfVisualizerSnapshot.PNG)
 
 # Download Information:
 Just clone or download the repository.
